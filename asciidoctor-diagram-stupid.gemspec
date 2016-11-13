@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Wilhem Barbier"]
   spec.email         = ["nounoursheureux@openmailbox.org"]
 
-  spec.summary       = %q{Generate Stupid diagrams in Asciidoctor.}
-  spec.description   = %q{Generate Stupid diagrams in Asciidoctor.}
+  spec.summary       = %q{Generate Stupid diagrams with Asciidoctor.}
+  spec.description   = %q{Generate Stupid diagrams with Asciidoctor.}
   spec.homepage      = "https://github.com/nounoursheureux/asciidoctor-diagram-stupid"
   spec.license       = "MIT"
 
